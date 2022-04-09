@@ -22,6 +22,7 @@ gem "simple_form"
 gem "simple_form-tailwind"
 gem "table_print"
 gem "turbo-rails", "~> 1.0"
+gem 'stimulus-rails'
 
 group :development, :test do
   gem "cypress-rails"

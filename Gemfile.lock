@@ -289,6 +289,8 @@ GEM
     standard (1.9.1)
       rubocop (= 1.26.1)
       rubocop-performance (= 1.13.3)
+    stimulus-rails (1.0.4)
+      railties (>= 6.0.0)
     strscan (3.0.1)
     table_print (1.5.7)
     test-prof (1.0.8)
@@ -349,6 +351,7 @@ DEPENDENCIES
   spring-commands-rspec
   spring-watcher-listen
   standard
+  stimulus-rails
   table_print
   test-prof
   turbo-rails (~> 1.0)
